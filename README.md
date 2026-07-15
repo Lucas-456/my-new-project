@@ -1,4 +1,4 @@
-# my-new-project
+# Content Creator
 # Building AI
 
 Final project for the Building AI course
